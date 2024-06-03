@@ -83,3 +83,5 @@ VNC Connection Issues
 - Check the IP address of the Raspberry Pi using
   ```bash
   hostname -I
+
+By following this guide, you should be able to successfully install and run the thermal imaging script using the provided Python code.
