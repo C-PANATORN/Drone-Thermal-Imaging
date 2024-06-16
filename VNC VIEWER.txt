@@ -1,0 +1,18 @@
+VNC VIEWER
+192.168.1.101
+
+OPEN TERMINAL CTRL+ATL+T
+cd Documents && python camera.py 
+cd Documents && python camera2.py (inverted)
+cd Documents && python camera3.py (webcam)
+---------------------------
+source env/bin/activate && cd Documents && python capture.py
+---------------------------
+source env/bin/activate && cd Documents && python thermal4.py
+---------------------------
+CLOSE ESC, CTRL+C
+POWEROFF
+
+WINDOWS
+cd C:\Users\panat\OneDrive\Desktop\code && python dashboard.py
+CTRL+C Terminate
