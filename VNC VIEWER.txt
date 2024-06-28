@@ -10,8 +10,3 @@ source env/bin/activate && cd Documents && python capture.py
 source env/bin/activate && cd Documents && python thermal4.py
 ---------------------------
 CLOSE ESC, CTRL+C
-POWEROFF
-
-WINDOWS
-cd C:\Users\panat\OneDrive\Desktop\code && python dashboard.py
-CTRL+C Terminate
