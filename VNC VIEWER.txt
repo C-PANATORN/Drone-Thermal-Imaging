@@ -1,5 +1,4 @@
 VNC VIEWER
-192.168.1.101
 
 OPEN TERMINAL CTRL+ATL+T
 cd Documents && python camera.py 
