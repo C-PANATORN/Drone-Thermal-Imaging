@@ -10,7 +10,6 @@ Thermal imaging is accomplished using the Adafruit MLX90640 IR thermal camera co
 - **Raspberry Pi** (Model 3 or later recommended)
 - **Adafruit MLX90640 IR Thermal Camera**
 - **MicroSD card** (16GB or larger recommended) with Raspberry Pi OS installed
-- **Power supply** for Raspberry Pi
 - **VNC viewer** installed on a remote laptop
 
 ## Step 1: Set Up Raspberry Pi
