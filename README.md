@@ -17,7 +17,8 @@ Thermal imaging is accomplished using the Adafruit MLX90640 IR thermal camera co
 
 ### Install Raspberry Pi OS
 - Download Raspberry Pi OS from the [official website](https://www.raspberrypi.org/downloads/).
-- Flash the OS to the MicroSD card using [Raspberry Pi Imager](https://www.raspberrypi.org/software/).
+- Disclammer: Raspberry Pi OS (Legacy) bullseye is recommended 
+
 
 ### Initial Setup
 - Insert the MicroSD card into the Raspberry Pi.
