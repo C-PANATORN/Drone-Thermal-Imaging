@@ -16,7 +16,8 @@ Thermal imaging is accomplished using the Adafruit MLX90640 IR thermal camera co
 
 ### Install Raspberry Pi OS
 - Download Raspberry Pi OS from the [official website](https://www.raspberrypi.org/downloads/).
-- Disclammer: Raspberry Pi OS (Legacy) bullseye is recommended 
+- Disclammer: **Raspberry Pi OS (Legacy) bullseye is recommended**
+- Please install **rasp-config** if using other linux distributions i.e. Ubuntu
 
 
 ### Initial Setup
